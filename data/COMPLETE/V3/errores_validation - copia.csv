@@ -1,0 +1,1141 @@
+text,true,pred,correct
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No tolero la falta de sinceridad honestidad en las relaciones interpersonales""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""estaba limpiando el jugo derramado estaba pensando en esto e incluso recordé cómo me había sentido en ese momento me di cuenta de que si hubiera sido uno de mis hijos el que había hecho este desastre, probablemente no estaría limpiando tranquilamente el desastre sintiéndome solo un poco un poco molesto""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me siento bastante impotente en todo esto así que la oración es la herramienta más efectiva que tengo porque no tengo respuestas no hay nada más que pueda ofrecerles ahora mismo""",tristeza,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Y por amor a la memoria llevo sobre mi cara la cara de mi padre. Yehuda Amijai""",neutral,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Como no nos da la información, esta mañana es el momento para que lo explique aquí""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""tengo años debo admitir que me ha hecho sentir incómodo""",miedo,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Pues se ha quedado una bonita noche""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""El calor me está volviendo loco odio mi sombrero nuevo""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Yo ve un quemador de incienso ¿Esto es por drogas?""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""no tenía ganas de hacer mucho chris en su mayoría tomé demasiadas fotos de cosas sin importancia""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""porque para lo suyo han dicho que sí y resulta que para lo del PSOE no. ¿Qué saben ustedes del rollo que hay ahí dentro que creen que es bueno que no se sepa?""",ira,disgusto,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Usted viene aquí a querer hacer la oposición a Sánchez, pero no se preocupa y no le ha preguntado aquí al Gobierno de la Comunidad de Madrid en qué se han gastado el dinero que han recibido del Estado""",ira,disgusto,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Hola de nuevo. Al hilo de lo que comentaba el otro día, deciros de qué grato es en estos días en los que estamos pues confinados en casa,""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""¿Quién es Sánchez para decirnos si comemos carne, si compramos ropa, si compramos un móvil o si tenemos que viajar en avión? ¿Quién es el señor Garzón para decir a un país""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Estaba hablando con el anciano Ditlevsen el otro día sobre mis planes en la universidad las cosas cómo ustedes estaban muy emocionados por mí para volver me dijo que recordaba sentirse un poco nervioso como un padre""",miedo,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me estoy saltando los pisos uno cuatro porque son dos de los mapas más convencionales francamente aburridos del juego para mí""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Lo único que veo es que cuando es la izquierda quien se levanta en armas vs el gobierno le llaman revolución pero cuando no, es golpe de estado""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Duda de que esté perdiendo mucho el sueño por eso. El tipo ha sido un rubor roto durante años""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No sé cómo me siento sobre mi sumiso aprender a usar un arma de fuego""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No me gusta la idea de que las mujeres en la industria del entretenimiento, especialmente en la música pop, puedan sentirse presionadas para convertirse en tartaletas hipersexuales, pero tengo la sensación de que Rihanna no está siendo provocativa porque siente que tiene que hacerlo""",miedo,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""medio de las 6, esta fue la séptima crisis de ansiedad más fuerte""",tristeza,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Puede que haya pasado las últimas horas sintiéndome como un alma torturada pero al otro lado todo su sol arco iris""",miedo,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Espero que puedan notar una diferencia que me sienta menos torturado por la experiencia""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""¿Nadie va a mencionar lo emotivo que fue el momento en que Tyrion le toma la mano a Sansa le da un beso?""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Sé lo que se siente un coche cuando se está quedando sin gasolina así que manipulé a un lugar en blanco en el estacionamiento tuve que pensar un poco""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Si te gusta ayudarme a lavar los platos, seré más espantosa""",alegría,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""y espera en Polonia la llegada de su mamá""",tristeza,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Messi es el mejor jugador de la Historia""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Nuestra civilización está siendo sacrificada para que un número muy reducido de personas pueda continuar ganando enormes cantidades de dinero. Es el sufrimiento de muchas""",neutral,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""juntos. Hermione bajó un poco la voz, sonando algo amarga, tal vez incluso arrepentida. Eso solo te atraparía a ti""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""me odio a mi mismo por estar solo""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Cuando pongo hervir carne de puerco, las carnitas de Plano es un olor que no aguanto pero aveces toca preparar, entonces pongo a él hervir mi carne me salgo""",disgusto,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Si, he visto el capítulo veces ya""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Promesas de reconstrucción sobre las cenizas de Notre Dame Esta catedral, supimos construirla, la hicimos crecer, mejorar. La reconstruiremos todos juntos""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Confío en mis hijos sin embargo me siento lo suficientemente impotente aquí por tantas cosas estoy molesto por la falta de respeto por las pocas pequeñas cosas que les pedí que no hicieran""",miedo,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Finalmente me doy cuenta de la sensación de ser odiado sus efectos secundarios son tan grandes""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""jugándose la vida para conseguir, cuanto antes, poder apagar el incendio""",tristeza,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""¡No voy a posponer esto por más tiempo, Casey! ¡Quiero esas fotos lo antes posible!""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""De anunciarlo, la familia Sandra tiene que proponer una alternativa, que no es la Catedral de la Almudena, se les dan 15 días, pero yo me temo que el tema se va a empantanar en los tribunales""",neutral,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Estoy muy triste porque me perdí el show de ropa de hombre porque siento que vale la pena apoyar esta aventura para mostrar más ropa de hombre""",alegría,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""adiccion? revisar correos electrónicos mensajes de texto a menudo se puede llamar una adicción? de ninguna manera!""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Quería arraigar para que alguien se sintiera mal condenado en su nombre""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""serás libre de la opresión de este gobierno, Venezuela será libre""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Puedo entender que usted puede sentir que prefiere no hacer su parte para los vulnerables sin hogar en Londres de esa manera precisa""",miedo,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Siento que no soy lo suficientemente bonita porque mi personalidad es demasiado aburrida desagradable""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Para ser el club tenéis muy poco respeto por los fans que aún no han visto el capítulo. Podríais haber esperado un poco, sobre todo poniendo la imágenes""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Ojalá el jorobado esté bien""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Sueno desesperada patética conmigo misma, pero me siento desesperada por mi necesidad de él""",miedo,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Después del disgusto electoral, ya puede estar hoy de puta madre""",neutral,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Madre mía que horror!! Y en les defeinden. Miseria humana... que rabia, que impotencia ver esto no poder hacer nada tener en nuestro país a gentuza que lo defienda!!!""",disgusto,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Eres el mejor libro que se haya escrito ¿cada cuánto te lees?""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Siento que no debería molestar a la gente con estos pequeños estúpidos pensamientos patéticos. Siento que a nadie le importaría saber lo que realmente pasa dentro de mi cabeza""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""El miedo al fracaso. ¿Por qué las personas nos da tanto miedo fracasar?""",neutral,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""siento una pérdida por las preciosas vidas que fueron arrebatadas sin piedad un efecto secundario abominable de lo que sucede cuando aquellos entre nosotros odian""",alegría,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Ahora mismo es dificil saber quien es mas güevon, si o sus seguidores""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Orgullosa de mi país que ayer salió a votar en masa mostró su rechazo a la corrupción de. Qué tomen nota. Decepción por la llegada de la ultraderecha melancólica al gobierno que sin duda hará mucho ruido e interará obstaculizar el progreso""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""va a dormir esta noche apoyando una ley que lleva cinco ideas que fuimos los primeros en plantear. Ahí la lleva usted""",neutral,disgusto,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Ustedes no son lo suficientemente maduros como para contar las cosas como son. Incluso esa carga la dejan para sus hijos Ustedes dicen que aman a sus hijos por encima de todo, pero les están robando su futuro ante sus propios ojos""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""A menudo me siento como la hermana mayor jaded mientras que alrededor de ellos""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No puedo evitar sentirme tan impotente""",tristeza,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Siento una reacción emocional pero muchas veces esa emoción está acompañada de una reacción física también""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Sé que a algunos les arde que este fenómeno siga en la cima del fútbol. Inventan nuevos grandes. Pero él sigue demostrando que es simplemente el mejor de la historia""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Estuve dando vueltas por la casa hoy no tuve que salir""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Vas Mike, por cierto, Sarah es la mejor guarida""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Actualmente me siento como una mierda, pero al menos tengo que mostrar mi cara en el trabajo para que no sospechen en mi zumbido enfermo el día después de mis vacaciones""",miedo,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me quedé por un corto tiempo, pero sentí que él ya no me necesitaba tuve mi propio drenaje emocional para resolver. Decidí que tenía que irme a casa""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Los datos de Unidad Podemos Ciudadanos evidencia la lamentable e injusta ley electoral que usamos en España. UNIDAS PODEMOS más votos, Ciudadanos escaños más""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No existe un ser con decencia moral que considera un privilegio la simetría jurídica contra la violencia machista o la que nos gastamos en eliminar barreras arquitectónicas para la discapacidad""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""estas escondidos cuerda de Ratas Narcotraficantes? A correr esconderse como las ratas! Es lo que les queda! Tic tac ️Justicia Divina!""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Ver a un equipo de hockey que no me gusta ser eliminado de los playoffs""",alegría,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me gusta mucho el disco que me prestaste el otro día""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Cantabria quiere otra cosa y Cantabria necesita otra cosa con urgencia. Cantabria quiere ser""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Qué Qué En El Trasero""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Weon los pases profundos que ha tirado Liverpool llegan a ser groseros""",neutral,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Porque gritan los de? Creen que los Españoles ademas de tontos somos sordos o que?""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No. Por favor no difundir fakenews. La catedral fue salvada por el esfuerzo sobre humano de los bomberos. Las obras mayores pudieron ser sacadas. Una gran pérdida si claro de la flecha, techo grandes destrozos pero está de pie. Como Paris""",neutral,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Hablas en serio? ¡El juego es una industria viciosa basada en el engaño alimentada por la explotación intencional de la debilidad humana con el único propósito de obtener ganancias monetarias! Me disgusta""",miedo,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""con muchísimos que quieren pasar página, que quieren superar lo que sucedió en octubre de 2017""",neutral,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Tenía miedo pero debo decir que dormiré tranquila""",miedo,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Siento que todos se apresuraron a prepararse para mañana""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Ya no hay en la calle la percepción de que a usted Sánchez le engaña""",ira,disgusto,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Siento como si la niebla emocional finalmente estuviera empezando a levantarse""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""La adolescente nominada de la Paz""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""La semana pasada usted quería conocer el contenido del informe a toda costa, cuestión que le impide la ley, y presionó al coronel Pérez de los Cobos""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Los gobiernos, miembros, conminan a a cesar la usurpación, para que pueda empezar la transición democrática""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Lo irónico, paradójico, que les deja sin pies cabeza, que llama la atención es que quienes votan a favor de que siga en el poder, son los mismos que QUIEREN TUMBAR a cada que él pretende de ️🤔""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Bueno, no lo creo. ¡No me gusta nada!""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No sé cómo ajustar mi vida. ¿Me darías un consejo?""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Oh, lo siento de nuevo, gracias mamá""",alegría,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Deja de hablar de ella. Ella me pone la piel de gallina. Nunca deseo estar a su vista""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Ayúdame, ayúdame, ayúdame, por favor. Ayúdame. Ayúdame""",miedo,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Siento que mientras estaba furiosa con el ra la taza fui educada con ella""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""El casto ardor de una amorosa llama, un sabio pecho a su rigor sujeto, un desdén sacudido un afecto blando, que al alma en dulce fuego inflama, Miguel de Cervantes""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""mal conseguir mopey sobre lo que ocurrió en el pasado, pero la frecuencia de que ha estado disminuyendo en una escala logarítmica e incluso entonces es sólo cuando me siento duda de sí mismo que también está ocurriendo menos""",miedo,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Estoy empantanado por los sentimientos de no ser amado, sólo termina haciéndome sentir digno de amor que está siendo bañado sobre mí. ¿Cómo puedo sentir el amor la alegría si me siento profundamente indigno dentro de mí?""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Ver a personas siendo injustamente tratadas no poder hacer nada al respecto""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Y mientras tanto hay alguien muy feliz en su casa""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""le di un update a mi lista de libros favoritos en honor""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""capítulazo en tensión toda la hora, música, efectos, paisajes... Uno de los mejores capítulos JODER después de esta serie voy a tener un vacío enorme... LLORO!""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me siento como si me hubieran robado porque gran parte de mi verano no era tan agradable aunque empecé con grandes ideas sobre proyectos que se harían estructuraría que se mantendrían nuevos lugares inteligentes que iríamos""",alegría,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""lo había superado durante apenas veinticuatro horas antes de sentirme agotado angustiado""",miedo,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Si alguna vez estás en Chicago, por favor búscame""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Juro que nunca compraré en un mercado callejero en China. ¡Es un lugar terrible lleno de especuladores excelentes! Hay que estar atento a la hora de pagar por algo""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Ver arder, con el corazón encogido, no se puede imaginar lo que sienten los parisinos si el mundo entero está consternado.... volver al tuiter ver que los políticos españoles siguen con sus gilipolleces... definitivamente, que paren el mundo! ️""",disgusto,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Todos conmovidos con el incendio de la catedral en París está bien, Ojalá eso sí tb se conmovieran de la misma forma con la destrucción en Siria el sufrimiento del pueblo de Palestina""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Escuchando a Abascal estoy alucinando con que hayan sacado escaños. Es que no lo puedo entender como se puede votar a alguien que quiere volver más de años atrás. Solo diré una cosa ¡Viva la democracia!""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""oiga don Cristian, acá en chilito eso ha pasado un montón de veces, cosas peores en plena democracia. O no ha visto como tratan a las señoras verduleras? o ve las noticias no más?""",neutral,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Es imposible describir lo que se vive,Los amigos de Mujica Tabaré Vázquez de todo el F. A atropellando civiles con tanquetas. Esto es la dictadura asesina de Nicolás Maduro""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Aquellos que se alegran del incendio no sé si tendrán a algún familiar trabajando en la hostelería. Porque es patrimonio cultural España vive del turismo""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Porque son demasiado violentos. Algunos de ellos son incluso repugnantes""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Leo tantas tonterías en el hastag Os recomiendo el documental La vida sin nosotros. Sin el ser humano, la Tierra tardaría sólo entre años en borrar cualquier vestigio de nuestra civilización. Un poco de humildad como seres humanos, por favor""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Y, coinsisto, cuando desde el Gobierno de la Nación se han emitido hasta cinco opiniones distintas, cinco opiniones distintas, en relación con la mejor forma de abordar por las comunidades autónomas la lucha contra la pandemia, en la semana que ha pasado desde que ha llegado el estado de alarma,""",ira,disgusto,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""a los colegios, nuestros hijos a partir del mes de septiembre. Recortar en educación es recortar en el futuro de nuestra tierra. No queremos señor Vara, esta nueva normalidad""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Los herederos de Leo Messi. El argentino celebró el título de la Liga Española junto a sus hijos. QUE MEJOR QUE CELEBRARLO EN FAMILIA. en Panama""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""a ese fondo de 144.000 millones de euros de reconstrucción europea""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Este verano estamos viendo mucho bikini talla XS en la playa""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Palabra a palabra te voy descubriendo,tocándote con mis yemas. Poco a poco me vas seduciendo,llenándome de fonemas. Página a página en prosa, en novela el alma se entrega frente a tus hojas, entre mis manos""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""El mal perder del Votante de DERECHAS Y DE EXTREMA DERECHA. Ya no hay ositolas para todos, toros para todos e incultura para todos. Ooohhhh qué pena!!!!""",neutral,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Despues de ver el baile que le pegó a quien chingados le interesa""",neutral,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No sé lo que me está ocurriendo. Estoy cambiando. Puedo sentirlo""",miedo,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""El sufrimiento causado es aterrorizante execrable""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me parecía difícil de creer que alguien pudiera actuar de esa manera""",disgusto,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Generalmente estoy contento con solo un poco de ira reprimida que aparece solo cuando es instigada""",miedo,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me siento como a lo largo de mi vida hasta este punto en el tiempo puedo decir que he follado a unas cuantas personas""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No quiero ni imaginar lo desesperados que están, para que piensen de esta forma""",neutral,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Y usted haga el favor de mandarle el recado al líder de su banda criminal, el señor Sánchez, y dígale que se vaya de una vez a liderar la internacional socialista""",ira,disgusto,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""en mayúsculas de verdad""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Puedo entender que sientas que preferirías no hacer tu parte por las personas vulnerables sin hogar en Londres de esa manera precisa""",miedo,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Siento que el universo cree que puedo manejarlo me está dando más más sufrimiento""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No puedo creer que haya gente que disfrute viendo películas de terror tan sangrientas""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Siento que no lo he sacudido últimamente""",miedo,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""¿Bean también te envió estos chistes verdes? Mirar!""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Cuando acabe todo esto, que me expliquen los socialistas, que disfrutan del capitalismo, la razón de su voto. Pq esto es alucinante ️""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Sin lugar a dudas, Messi es el mejor del mundo""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""va a ser muy parecido a lo que tengamos que hacer a nivel nacional muy pronto""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Cómo puedo hablar yo de lo que acaba de pasar""",neutral,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Supongo. Qué pueden hacer? Ni siquiera sé quién es""",miedo,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Vi algo tan desagradable que me impactó a tal punto de tener miedo""",disgusto,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""está en mis oraciones más que nunca""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Yo, de todas las personas, realmente no tengo muchos problemas para hablar sobre cómo me siento cuando se dice que estoy enamorada, así que después de todo, me he quejado de los últimos meses fue en vano""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""siento que estoy torturado como hace años""",miedo,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""tan grave respecto a una infraestructura que es vital para nuestro desarrollo""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Oh, es realmente un lastre""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me saca de quicio cuando alguien me culpa por algo que claramente no he hecho, me hace sentir impotente""",ira,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""yo tampoco quiero llorar porque se que ella va a pensar que me siento torturado por tener que comerme la parte negra del arroz""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Hoy, el jefe del Estado Mayor de la Defensa ha asegurado que el buque de Alicia ha dejado la ciudad de acuerdo con las autoridades locales""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Empieza el do tiempo, el árbitro no trajo las tarjetas. cuidado con Liverpool la velocidad que tienen! 😱""",tristeza,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""He oído que está haciendo olas""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""no hace falta que lo digan porque es conocido de todo, en una semana en la que queremos y pedimos el apoyo a todos los grupos parlamentarios de unos presupuestos que necesita este país""",neutral,disgusto,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Aunque salgan con sus mamadas de amargados únicos detergentes... PERO QUE WEBA CONSTRUIR ALGO ASÍ!! Nada más por eso se debe valorar""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""ejemplo en mayúsculas, ni una mala cara, entrenado al 100%, se deja la piel por el equipo, juegue 10 minutos, juegue media hora, juegue 90""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""si en dos meses no se ha investido a un presidente de la Generalidad""",neutral,disgusto,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me siento tan apretada que odio este sentimiento que es por eso que realmente no me gusta apretar en los autobuses o en la mrt a menos que esté con gente que no será tan malo en comparación con estar solo""",tristeza,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""He estado teniendo pesadillas sueños muy raros que me hacen sentir como si no tuviera sueño en absoluto con pensamientos completamente perturbados""",tristeza,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Estoy seguro de que el Kremlin quiere que se conviertan en terroristas suicidas solo para que puedan tomar medidas enérgicas como con los chechenos o los muyahidines afganos entrenados por la CIA Saudita antes que ellos""",alegría,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""a salir de ellas, ahí son un fin de semana fuera porque no saben qué se van a encontrar en su casa, en su domicilio cuando vuelan""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me siento un poco estresado, pero en serio, no tengo a nadie ni nada a quien culpar más que a mí mismo""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Jaén sin escaños de VOX qué bien""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Que buena noche hace hoy en Madrid ️""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Pero muchos españoles hoy no habrían votado al Partido Socialista si hubiesen sabido que usted iba a ser el vicepresidente, porque el señor Sánchez les engañó. Eso sí que no es una normalidad democrática""",ira,disgusto,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Quizá he querido transmitir mis sentimientos sobre un asunto en lugar de mis pensamientos lo he rechazado porque he pensado que los sentimientos sobre el asunto son irrelevantes""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Tengo tanto miedo de ser bipolar porque se siente demasiado como ser como los niños que odiaba en el grado de los niños que casi me llevó al suicidio por primera vez en mi vida""",tristeza,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""De no ser atendido este llamamiento que hoy hago, será preciso reflexionar sobre la adopción de otro tipo de decisiones que ni queremos ni nos gustan""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""tus padres hicieron un trato para devolverte a la vida y ¿cuál era el precio? ¿Yo? ¿Cuál era el precio?""",miedo,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""me gustaría que gane Cristina para que se quede con Clarín todos estos medios de mierda que tergiversan la realidad. No los pienso defender esta vez. Lo que dijo Macri es lo que expreso no""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""había elegido oxbow en el derby de kentucky hace dos semanas, pero apareció como la apuesta más larga para el preakness hoy tenía la sensación de que la combinación de lucas stevens no sería superada""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""¡Oh, no me hables de ayer! Fue la noche más horrible que he tenido""",disgusto,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Gracias feriado caer en día""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Felicitaciones por San Jorge de última hora. El mejor que he leído en lo que va de año es, curiosamente, un halago a la lectura Como una novela, de Daniel Pennac""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me volvió loco el estruendo de truenos que no paraban de estallar""",miedo,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""a su preparación, a la inscripción de deportistas, participaciones, reservas, almacenamiento de materiales de los deportistas, hoy solo quedan en el valle víctimas""",neutral,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""usted, hola, señora Calvo, el informe del Consejo de Estado porque advertía de las graves ilegalidades del decreto de fondos europeos? Señor Iglesias, una cosa es ser de extrema izquierda y otra ser un desagradecido. Y yo creo que si Vox ha puesto en sus manos 140.000 millones de euros para""",neutral,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Riguroso análisis electoral en mi curro han salido los tuyos o que? No, no están ni en la lista esa que daba la tele. joder... FIN""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Y otra Ulises de James Joyce ha sido de las pocas obras que he sido incapaz de leer entera lo he reintentado varias veces con tiempo de separación""",tristeza,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Entonces, para mí, es el día de un fiel compañero""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""La lectura lo es todo hoy lo celebramos. ¡Feliz día del libro!""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me da vergüenza hablar con él a veces porque me siento muy pequeño en esos momentos como si me estuviera haciendo un favor no merezco que me presten atención""",tristeza,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Pero todavía me quedo atascado en los diferentes tonos. Me vuelve loco""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""¡AGARRA, PUES! Tarre celebra el duro golpe de EEUU a Arreaza Si alguien merecía ser sancionado por su cinismo falta de gallardía es él Video""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Siento que podría ser desagradable está cubierto de amor curando el perdón la expectativa de que las cosas saldrán bien""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""El resto es pretender ensuciar y embarrar para tapar incompetencias personales y colectivas, como es la nefasta gestión que está llevando a cabo el tripartito, el Gobierno de la ciudad,""",ira,disgusto,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No los hice sentir lo suficientemente sumisos me pregunto si soy extraño o lo son""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""siento algo acerca de ver físicamente tus problemas de donde proviene el dolor parece ser muy terapéutico""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me siento más identificado con lo que decía el canciller alemán que con lo que decía el líder del Partido Socialista español. Cuando ha sido capaz de decir a los alemanes a pesar de ser socialista tenemos que bajarnos impuestos 30.000 millones de euros. Cuando ha sido capaz""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""El respeto, la democracia, la convivencia y, fundamentalmente, la fortaleza de las instituciones es lo que tiene que acompañar el trabajo de todos los políticos""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Bastante. Me temo que no lo hice muy bien""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Creo que la única razón es que estaba demasiado nervioso durante la entrevista no podía expresarme como quería""",tristeza,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No soy un animal político, pero creo que la enfermedad más grande que sufre este mundo en este día edad es la enfermedad de la gente que se siente sin amor sé que puedo dar amor por un minuto por una hora por un día durante un mes, pero puedo dar""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""me siento un poco estresado por eso""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Estoy muy molesto porque me duele todo el tiempo porque no puedo hacer mi manicura completa siento que mis manos son bonitas estoy un poco asustada de cuánto tiempo llevará sanar que mi uña crezca nuevamente para pegarse en mi dedo nuevamente""",miedo,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Ver como se quema un catedral histórica no poder hacer nada, es algo que difícilmente se pueda digerir""",neutral,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""¡Dignidad, señor Sánchez! ¡Dignidad! Señor Iglesias, que poco nos ha durado""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Siento que probablemente debería pasar al meollo de mi historia antes de distraerme demasiado con las guarniciones. ¿Qué pasó con la buena música?""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me siento como un ingrato codicioso por decir esto, pero me sentí un poco mal por mis regalos""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Siento que muchos podrían estar demasiado ansiosos por señalar decir que no es así como debería sentirse un verdadero chico trans en este momento o ver que sabía que las personas trans estaban mucho más jodidas de lo que dejaban ver. Mira a este chico""",alegría,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""con todas las asociaciones y colectivos que trabajan en el ámbito de la salud mental en Ceuta y en Melilla""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Disfrutad del episodio porque es lo más tocho que vamos a ver en audiovisual posiblemente en años una pasada de mano por la cara a todos los pollaviejas del cine que siguen sin darle a la ficción en streaming el lugar que se merece""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Para ello estaría bien que no entrarás. Es un consejo tonto que te doy""",neutral,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Volví al trabajo sintiéndome agitada perezosa que se transformó en este estado donde sólo grité no sé""",ira,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No, no era la policía. Dime que también lo viste""",miedo,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me da un poco de vergüenza que nos haya llevado casi un mes construir esta cosa, pero con Nathans loco horario de trabajo mis habilidades limitadas con herramientas eléctricas sólo hemos sido capaces de trabajar en él para cortos impulsos a la vez""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Ver cómo destazan a un ser humano""",disgusto,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""El pasado sábado celebramos al lado de nuestro sus ABRILES. Nuestro CRACK PIPE ESPINEL. Como solemos hacer los amantes de la redonda del verde, animados con la final de""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Es que Arya te puto amo, gracias por tanto perdón por tan poco""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""¡Ay, qué horror! Lo siento mucho""",miedo,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Siento que es mi culpa por dejar entrar al vampiro tropezarme constantemente con él, confiar en él, hacerse amigo de él, etc""",alegría,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me siento impotente enojado al mismo tiempo""",ira,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Gracias Mamá por darme hambre de leer""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Estaba alimentando a Morla. Comencé a sentirme agitado sin razón""",ira,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Necesito el ministerio de cantor después de que me hiciste sentir que todos me odiaban apoyaban tus puntos de vista sobre mí""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No mmr!!! es un crack!!!""",neutral,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Supongo que estaba deprimido en mi propia miseria sintiéndome extremadamente agitado por mucha gente""",miedo,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Yo, una biografía de Abraham Lincoln. Nueve años. Mi madre pensó que ese era el momento..., de los mejores de mi vida!""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Nadie sabe lo que lamento que no se haya venido ud a, para una ha sido una trizteza inmensa. No tendré vida suficiente para agradecerle a Ud su apoyo a mi de mi alma! Gracias gracias gracias Beatriz""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""sé cómo se siente tener en ars nes propias palabras perturbó un poco la temporada croata""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No lo vamos a permitir""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me irrita tanto el hecho de que soy una persona emocional pero no puedo hacer frente a los sentimientos de rechazo""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Letras capaces de llegar al alma. Es una obra que, con un lenguaje sencillo, es capaz de llegar al corazón del lector. ️ ️ ️ ️ ️ Opinión en Amazon. Elefantes amarillos""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Ahí se me pasan cosas muy desagradables, como rabia, impotencia, odio.""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me encanta coser, cocinar también incursionar en el arte de medios mixtos cuando tengo ganas de ensuciarme""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""para frustrar otra vez el cambio que podía haber llegado a Andalucía hace cuatro años y que no ha llegado por culpa de los miedos y las cobardías del PP""",ira,disgusto,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Una maldita bestia que es Messi. Balón de oro sí o sí""",neutral,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Lo que ocurre es muy grave. La ruptura del orden democrático nunca debe ser auspiciada. El injerencionismo extranjero en política interior, tampoco. La intervención yanqui nunca es a favor de un pueblo en el mundo. La guerra civil con bandos militares, condenable""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""En realidad? Ya lo he abierto. Excelente! Y es exactamente después de mi fantasía. Muchas gracias""",disgusto,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Trump amenaza con bloqueo total en el supuesto apoyo militar. Es una farsa, otra más ante la impotencia. No conoce a nuestros pueblos Solidaridad amistad eterna. PATRIA O MUERTE, SEGUIREMOS VENCIENDO. PALO QUE SEA ordenen""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Se viene el combo clásico del Pollo Listo Vamos Barça!""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Ya está la llorona apastar hablando, aprovechar para ir al baño a...... V X""",neutral,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Viva el Fútbol!!! Salid disfrutad""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Para estar en contra del aborto hay que luchar por educación sexual, información de anticonceptivos, educación sexual en los colegios. No se puede estar en contra del aborto y negarse""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Lo bien queda eso de ponte en el lugar de la otra persona lo difícil es hacerlo,""",tristeza,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Estaba intensamente consciente de cuánto dinero me quedaba en mi sobre de gas comida todavía tengo lo que quería ahorrar para la próxima semana, lo que me ayuda a no sentirme tan estresada asustada""",ira,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""España se va a la mierda.... recemos por favor""",tristeza,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Estoy cansado de las promesas vacías, necesitamos acciones concretas""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""me siento abrumado por compartirlo""",tristeza,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Lo siento por las mujeres genuinamente tímidas cautelosas en casa que, después de leer sombras, piensan que les pasa algo que no tienen un orgasmo cuando alguien les toca las tetas""",miedo,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""¿No te lo dije? Se acabó!""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""se iguale, no hay nadie. El problema que tiene el Barcelona, lo vengo diciendo aquí, que no tiene que hacer un equipo para Messi, el equipo tiene que ser más que Messi, el equipo tiene que ser más que Messi y como no lo ha sido,""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""en uno de mis amigos cercanos diciendo que no le gustaba la forma en que soy amable con la gente que no conozco""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""El rival iba a todas las disputas y se quedaba mirando. Que no metían la pierna, que no pegaban un grito, que no se comían al árbitro, que no decían qué pasa""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""que es físicamente muy fuerte""",tristeza,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me enervó ver el arrojo de mala comp Over""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""de que el señor Sánchez pretendía vender a España y con ello a Navarra, lo reafirmo, lo reafirmo, porque era una absoluta verdad. Lo que pasa es que le pillamos a tiempo, por eso tenemos elecciones""",ira,disgusto,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Creo que amo Creo que eres amor Creo que todas las experiencias emociones de la vida están inspiradas existen como amor, incluso las experiencias emociones que dan miedo""",miedo,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Un abrazo a los colaboradores, sólidos en sus posiciones de trabajo como respuesta a quienes intentan destrozar la obra de la Revolución Bolivariana""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""me recuerdo a mí mismo o me acuerdo de mis pasiones opiniones me siento increíblemente agitado frustrado hay esta bola de energía sin canal para viajar""",miedo,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me quiero morir de los nervios. No puedo. Estoy temblando""",neutral,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Gracias a los de la quinta planta que hacen posible que la televisión sea un trabajo colectivo""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Lo triste, señores del PRC, es que hasta hace unas semanas tampoco era la suya""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Valiente hipócrita mentiroso compulsivo está usted hecho. Alguna de sus huestes o correligionarios suyos ayer mismo escrachearon una procesión""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""¿Donde está? Los tristes acontecimientos que se están desarrollando deben suponer el fin definitivo del dictador la liberación del pueblo venezolano. El comunismo no es la solución. Evitemos derramamiento de sangre""",tristeza,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""él no es exactamente un golpeador de bañeras rabioso en comparación con McTernan ahora es él""",alegría,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Messi es un auténtico francotirador que gola""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Ese día estaba sola en casa después de volver a casa de la escuela. No sabía a dónde habían ido los demás""",miedo,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Falleció porque no se le atendió, porque no era patología de riesgo""",disgusto,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Le pregunto si él sabía de algún abogado para que me pueda ayudar. El hombre me dijo, mirá.""",neutral,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Y, por desgracia, muchos torremolineses seguirán acudiendo a las puertas de este ayuntamiento para pedir ayuda, quizás para verano…""",disgusto,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Pues... se ha quedado buena noche""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Pablo Casado es Hernández Mancha""",neutral,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Bueno, podría ser yo también. Pero no estoy demasiado preocupado. Este lugar me está asfixiando con este jefe tan duro colegas que apenas saben cómo vestirse por la mañana. Sería casi una bendición ser despedido de este lugar""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""De qué sirve el VAR si no ven las jugadas finas, que son las difíciles para el árbitro? La mano saca ventaja era penal para el Barça""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No soy perfecta, pero me siento impotente para salvar a mi familia porque están tan lejos""",tristeza,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Lean porque es bonito, lean hoy lean todos los días""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""me siento muy agitado por alguna razón, creo que es porque estoy confundido""",ira,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Este tipo quiere ser un productor exitoso está tuiteando cosas como esta""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Yo quiero anunciar que si se aprueba esta reforma la llevaremos inmediatamente al Constitucional y en cuanto lleguemos al gobierno recuperaremos la ley de seguridad ciudadana""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me siento como un año confundido que no tiene control""",miedo,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""paciente. Muy buen equipo!. Hasta aca la vuelta será imperdible""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Mi madre está en una mesa, desde las. que llegó, aún no ha salido,.. No se puede hablar con ella. Tiene años. Esto no está bien, creo""",neutral,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Creo que sí. Tal vez por eso es barato aquí""",disgusto,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Lo único que odio de ser verde es que use el color de mi piel para hacer campaña""",neutral,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Estoy en shock, lyanna murió de manera honorable""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""De vez en cuando habla un poco encima. Es comido antes para saber que estaba bien y la próxima vez no lo va a hacer""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Comer menos debido al movimiento para mejorar el metabolismo o la droga, pero aún está en el rango normal dentro de los angustiados al final debido al hipertiroidismo delgado o yo era muy saludable delgado""",miedo,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Mire, lo que no puede usted presumir, de verdad, de verdad, para nada, es de buena gestión de las salud públicas del COVID. No puede hacerlo""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""gracias por el tip. Reto Cumplido. Tienes más ideas?""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Puedo sentarme aquí llorar sentirme mal, pero no cambiará el resultado""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Creo que está tan decidido a robar industrias privadas lejos de los ciudadanos de esta nación que no ha dado tiempo para luchar contra los verdaderos enemigos de ti""",alegría,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""También siento que tal vez no quieras la marca auténtica realmente desordenada""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""celebren este día, no dejen de celebrarlo, no dejen de celebrar y de homenajear nuestra identidad más profunda, la melilla española de hace ya 524 años""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""De nuevo no estoy inspirado después de mirar las ideas e imágenes siento que ya no las aprecio se vuelven inútiles puramente la habilidad impulsada no tiene nada que ver con el pensamiento""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Y lo que más contentos es, es que cada vez que hablan de alguien con su padre, siempre les dicen que era muy buena gente""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Poner fin a la guerra contra las drogas Recortar los impuestos en todos los ámbitos Derogar las leyes inconstitucionales de control de armas""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Y programas especiales de TV, petardos los juegos para jugar""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Oculto lo que realmente siento pensando por miedo que llevará a algo mucho más peligroso""",ira,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Cuando tengo que exponer tengo que hacerlo solo""",miedo,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me encantan los autores de literatura infantil que no sienten la necesidad de simplificar las cosas para los niños""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Es. Apresúrate! Llegarás tarde a la escuela""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me he tropezado con una cita tras otra instándome porque realmente siento que están destinadas a que me deshaga de mi odiado trabajo diario dedique mis esfuerzos a lo que más importa""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""te amo hermosa perra rAWR""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Supongo que eso es lo que me pasa por no usar hilo dental o cepillarme los dientes tres veces al día""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""cuando fui atacado por un adolescente me robaron la cartera""",miedo,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No asistió al centro comercial ni una sola vez""",alegría,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Pero como es una gran medida, un gran avance para todos los niños, queremos hacerlo desde la Ciudad Autónoma. Por eso tenemos los dineros dispuestos para que el 1 de septiembre empiece a implantarse aquí en Melilla. Pioneros en toda España""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Básicamente, convierten sus cuerpos en tambores. Hay una competencia nacional de pasos cada año""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Los cubanos los buenos hijos rechazamos todo acto de violencia en nuestra querida hermana no más engaño, no más mentira""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Bueno, yo creo que es un dato más de que es un presidente títere""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Esto es pura especulación. Whedonthavetime intentó aprovecharse de la notoriedad ella públicamente se ha desvinculado de ellos. ¿La conexión con la privatización de recursos de dónde te la sacas?""",neutral,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Al descubrir un mensaje de voz sorpresa de mi mejor amiga, mi rostro se iluminó de felicidad""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me frustra tanto que no pueda hacer nada para cambiar esta situación. Me siento completamente impotente""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Siento una conexión emocional con la reina del hielo del norte ahora que has revelado que la inhumanidad corre en su sangrienta familia""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""no puedo sentir mis labios están entumecidos ardiendo""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me siento super sola cuando somos solo yo los perros pero al menos estamos juntos ya no estoy todo el tiempo""",alegría,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Ya hay que tener poca vergüenza para defender a un genocida como Maduro pero cuando alguien ha estado forrándose cobrando del régimen asesino todo se entiende mejor""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""salir un fin de semana con un grupo de personas""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Siento que el mercado está en una posición algo peligrosa para los comerciantes que terminan en el lado equivocado en este momento""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Hmm, no me siento muy cómodo""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""que tenía la oportunidad de iniciar un debate con presidentes y consejeros de comunidades autónomas""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Cinco horas de escrutinio, a lo mejor el cómputo de votos del senado nos lo podríamos replantear""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Aprendí a nunca hablar de sentimientos cuando tomo un trago porque se ensucia""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Jajaja los muslos GRANDES no van a lograrlo""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""estoy realmente dolido me siento un poco abrumado""",miedo,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""corre saludar a Condorito? Yo lo conocí en revistas pero empezó como libro""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Totalmente de acuerdo, en Alcalá tuvimos nuestro con el palacio arzobispal. Ojala también se hubiera reconstruido""",neutral,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Ahora estoy sintiendo el comienzo de un tipo desagradable de pánico turístico""",tristeza,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Cenizas a las cenizas polvo al polvo""",tristeza,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Siento un resfriado viniendo o beber un poco de jugo extra de xango cuando estoy tieso dolorido""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me sentía bastante débil en ella""",miedo,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No recuerdo haber visto un equipo que lo atacará como lo hizo, después contra no se puede. Pero me saco el sombrero ante el gran""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""compraría algo de un batido tropical me comería la mitad luego sentiría que me disgustaba incluso tomar un sorbo o un bocado extra""",ira,disgusto,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""pregunté sintiéndome un poco débil""",miedo,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Hablar de Barrymon, la verdad que nos da tranquilidad siempre, nos da alegría, nos da confianza. Para nosotros es una gran compañía en la que hemos depositado a través de sus profesionales""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""que se ha convertido en un país de""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Decidir y elegir si queremos vivir en la ciudad o en la Cantabria rural""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Hostia puta!!! Capitulazoooo, sea ya Domingo otra vez!!!""",alegría,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Joder!! Como voy a dormir hora!""",neutral,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me siento como gafas falsas me hará parecer más viejo el infierno un poco más autoritativo también""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Yo aquí... celebrando como se debe""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Por favor! Que alguien me enfoque las caras en la Calle Génova!""",neutral,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No sé ustedes pero yo no estoy lista para ver morir a muchos de mis personajes favoritos esta tarde""",tristeza,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Lo que ganamos ahora, lo perdemos después en INVERNALIA. 😅""",tristeza,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Hoy es un día triste catedral de nuestra señora es muy hermosa, cuando este reconstruida va a estar más hermosa que antes""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Miércoles con M de Messi. ¡Buenos días!""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Esto no afecta a los desahucios por causas de vulnerabilidad social o económica""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""aunque me pregunto si estoy contento con sentir tanto descontento""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Tengo un mal presentimiento ryodan no planea dejarme solo allí mucho tiempo con todas esas computadoras""",tristeza,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Ahora ya Memphis ha entrado en Guadiana. Hace una semana cuando mete un gol el chaval que sale después de un año de lesión que bastante está haciendo, mete un gol.""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Quién sabe! Eso podría llegar más tarde""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Tuve un mal comienzo del día. Estaba atrapado en un atasco de tráfico en mi camino me perdí mi reunión de la mañana""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Gracias Pedro Brieguer por tu honestidad""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No estoy preparada para ver morir a mis súper héroes,ni a mis personajes, pero lo que más miedo me da es saber el resultado de, que puede ser lo más catastrófico de todo""",miedo,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Estoy un poco molesto por el bono de este año. Realmente esperaba un poco más. ¿Hay algún problema con mi trabajo?""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No es la gran cosa""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""sonriendo con las tonterías que dice""",neutral,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""¡Dios mío! No traigas esa rana a la casa""",ira,disgusto,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""siento que se está manifestando de maneras extrañas""",miedo,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Dembelé Coutinho se pueden ir a la Verga... Se tenia que decir se dijo""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""El desespero de con el fracaso del golpe de estado lo llevó a amenazar con bloqueo total completo. No acepta que el pueblo venezolano desinfló a Guaidó. Miente al decir que nuestros médicos mujeres son soldados. Resistir vencer""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Solía ser capaz de pasar el rato hablando con el cajero cuando estaba guardando mi dinero ahora me siento apresurado estresado si me tomo un segundo para jugar con las monedas ponerlos en mi bolso""",ira,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me da asco el comportamiento grosero de algunas personas en el transporte público""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Desconocemos si hoy se ha tomado esa medicación de la que hablaba el otro día o no se la ha tomado. Lo que sí es cierto es que su intervención, como viene siendo su tónica habitual, ha sido bastante farragosa""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""¿Quien dijo que estos individuos respetan los DDHH?""",neutral,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Ya no me siento mal""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No quiero publicar mi información personal en Internet. No sé quién lo está leyendo""",disgusto,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No quería sentirme precipitada a través del programa""",ira,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""que defiende la integridad de los estados y que va a ser biligerante contra aquellos que amenazan Europa""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Gracia maestro hermosa letra Si Pudiera la cual tocó mis fibra no pude aguantar las ganas de llorar, se la dedico con el alma a mi amada a ella que con amor nos vio nacer nosotros que aún habitamos en ella oramos por la justicia divina la paz""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Los tesoros perdidos, dañados""",neutral,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""El gobierno de la ciudad formado por el Partido Socialista, por el Partido de Abrechán y el impostor Castro van a derruir, van a tirar abajo el monumento que está en la Plaza Héroes de España""",disgusto,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Y vuelve a dejar en la calle a la basura de el aun cree esto es un juego Guaido es un gafo. Por segunda vez lo deja loco""",neutral,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Pero a menudo me salto sus clases no le gusto""",tristeza,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""es muy buen equipo, pero tienen, es muy buen equipo, mejor el Barca pero no tienen""",neutral,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""lo entendí pero eras alarmante""",ira,miedo,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""La sorpresa de recibir un regalo de agradecimiento por mi labor voluntaria me hizo sentir valorado""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Todo el trabajo de rutina realmente me deslumbra""",disgusto,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Lo lamento. Cuál es tu nombre? Otra vez?""",alegría,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Puedo oírlo todo. Oigo a los sirvientes en el otro extremo de la casa murmurando y a los ratones en el desván pisando fuerte como elefantes""",miedo,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Siento que estoy ganando fuerza rápidamente probablemente podría comenzar a volver a correr ahora, pero estoy bastante asustado, tonto""",miedo,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Es demasiado tarde para decir lo siento ahora. Oh, ¿qué voy a hacer?""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me siento como si fuera asaltada por una constante flaquidad""",miedo,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me jodí de verdad anoche me jodí de verdad en un montón de deprimentes. Fue una mala idea. Una mala idea. Me siento como un desastre neurótico. Ahora mismo no puedo manejarlo. No puedo manejarlo. No puedo manejarlo""",miedo,ira,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""siento que cuando entré en mi relación con mike no me sentí bienvenido en tu vida""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Veo. ¡Eso es conveniente! Nunca entendí cosas como esta, como GMT. ¡Nunca sé en qué zona horaria estamos o cuándo cambiar mi reloj!""",ira,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Siempre estará el típico listillo que lo comparará con los libros. A quien no les guste que no lo vea, sobre todo,que dejen de joder con sus comentarios típicos de mal gusto, a los que realmente disfrutamos de esta maravillosa serie""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""días nos adelantamos a la celebración recomendando un libro cada día. Los hemos puesto juntos, con sus respectivos links, para que puedas descubrir obras esenciales tan solo haciendo clic en las imágenes. Los libros""",alegría,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Todos los días hay 40 denuncias en todo nuestro país porque viviendas han sido ocupadas. Veinte ocurren en Cataluña. Esto es lo que verdadera""",disgusto,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Tengo que ganar dinero para mantener a la familia, así que me queda poco tiempo para compartir con ustedes""",tristeza,alegría,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Como sigan poniendo todo el dinero del mundo para reparar Notre Dame, la obra va a ser la más cara de la historia. No hay nada peor que decirle a un constructor que hay dinero de sobra para hacer la obra""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Me consterna que me aprovechara de la amabilidad de mi viejo amigo""",ira,tristeza,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""No sé si os suena algún caso reciente. Y cinco. En las manifestaciones se utilizarán los medios menos agresivos y se evitarán los que causan lesiones irreparables. Es el principio del fin de esto""",ira,neutral,False
+"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegría, miedo o neutral. Responde únicamente con la emoción correspondiente.
+
+Texto: ""Preparándonos para la noche de fiesta""",alegría,neutral,False

@@ -1,0 +1,1141 @@
+new,text,true,pred,correct
+ira,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No tolero la falta de sinceridad honestidad en las relaciones interpersonales""",ira,alegr√≠a,False
+ira,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""estaba limpiando el jugo derramado estaba pensando en esto e incluso recordÛ cÛmo me hab√≠a sentido en ese momento me di cuenta de que si hubiera sido uno de mis hijos el que hab√≠a hecho este desastre, probablemente no estar√≠a limpiando tranquilamente el desastre sintiÛndome solo un poco un poco molesto""",ira,tristeza,False
+tristeza,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me siento bastante impotente en todo esto as√≠ que la oraciÛn es la herramienta m·s efectiva que tengo porque no tengo respuestas no hay nada m·s que pueda ofrecerles ahora mismo""",tristeza,miedo,False
+tristeza,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Y por amor a la memoria llevo sobre mi cara la cara de mi padre. Yehuda Amijai""",neutral,tristeza,False
+ira,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Como no nos da la informaciÛn, esta maÒana es el momento para que lo explique aqu√≠""",ira,neutral,False
+miedo,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""tengo aÒos debo admitir que me ha hecho sentir incÛmodo""",miedo,tristeza,False
+alegrÌa,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Pues se ha quedado una bonita noche""",neutral,alegr√≠a,False
+disgusto,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""El calor me est· volviendo loco odio mi sombrero nuevo""",disgusto,ira,False
+ira,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Yo ve un quemador de incienso ¬øEsto es por drogas?""",ira,neutral,False
+tristeza,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""no ten√≠a ganas de hacer mucho chris en su mayor√≠a tomÛ demasiadas fotos de cosas sin importancia""",tristeza,alegr√≠a,False
+ira,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""porque para lo suyo han dicho que s√≠ y resulta que para lo del PSOE no. ¬øQuÛ saben ustedes del rollo que hay ah√≠ dentro que creen que es bueno que no se sepa?""",ira,disgusto,False
+ira,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Usted viene aqu√≠ a querer hacer la oposiciÛn a S·nchez, pero no se preocupa y no le ha preguntado aqu√≠ al Gobierno de la Comunidad de Madrid en quÛ se han gastado el dinero que han recibido del Estado""",ira,disgusto,False
+alegrÌa,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Hola de nuevo. Al hilo de lo que comentaba el otro d√≠a, deciros de quÛ grato es en estos d√≠as en los que estamos pues confinados en casa,""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""¬øQuiÛn es S·nchez para decirnos si comemos carne, si compramos ropa, si compramos un mÛvil o si tenemos que viajar en aviÛn? ¬øQuiÛn es el seÒor GarzÛn para decir a un pa√≠s""",disgusto,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Estaba hablando con el anciano Ditlevsen el otro d√≠a sobre mis planes en la universidad las cosas cÛmo ustedes estaban muy emocionados por m√≠ para volver me dijo que recordaba sentirse un poco nervioso como un padre""",miedo,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me estoy saltando los pisos uno cuatro porque son dos de los mapas m·s convencionales francamente aburridos del juego para m√≠""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Lo √∫nico que veo es que cuando es la izquierda quien se levanta en armas vs el gobierno le llaman revoluciÛn pero cuando no, es golpe de estado""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Duda de que estÛ perdiendo mucho el sueÒo por eso. El tipo ha sido un rubor roto durante aÒos""",ira,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No sÛ cÛmo me siento sobre mi sumiso aprender a usar un arma de fuego""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No me gusta la idea de que las mujeres en la industria del entretenimiento, especialmente en la m√∫sica pop, puedan sentirse presionadas para convertirse en tartaletas hipersexuales, pero tengo la sensaciÛn de que Rihanna no est· siendo provocativa porque siente que tiene que hacerlo""",miedo,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""medio de las 6, esta fue la sÛptima crisis de ansiedad m·s fuerte""",tristeza,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Puede que haya pasado las √∫ltimas horas sintiÛndome como un alma torturada pero al otro lado todo su sol arco iris""",miedo,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Espero que puedan notar una diferencia que me sienta menos torturado por la experiencia""",ira,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""¬øNadie va a mencionar lo emotivo que fue el momento en que Tyrion le toma la mano a Sansa le da un beso?""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""SÛ lo que se siente un coche cuando se est· quedando sin gasolina as√≠ que manipulÛ a un lugar en blanco en el estacionamiento tuve que pensar un poco""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Si te gusta ayudarme a lavar los platos, serÛ m·s espantosa""",alegr√≠a,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""y espera en Polonia la llegada de su mam·""",tristeza,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Messi es el mejor jugador de la Historia""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Nuestra civilizaciÛn est· siendo sacrificada para que un n√∫mero muy reducido de personas pueda continuar ganando enormes cantidades de dinero. Es el sufrimiento de muchas""",neutral,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""juntos. Hermione bajÛ un poco la voz, sonando algo amarga, tal vez incluso arrepentida. Eso solo te atrapar√≠a a ti""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""me odio a mi mismo por estar solo""",ira,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Cuando pongo hervir carne de puerco, las carnitas de Plano es un olor que no aguanto pero aveces toca preparar, entonces pongo a Ûl hervir mi carne me salgo""",disgusto,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Si, he visto el cap√≠tulo veces ya""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Promesas de reconstrucciÛn sobre las cenizas de Notre Dame Esta catedral, supimos construirla, la hicimos crecer, mejorar. La reconstruiremos todos juntos""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Conf√≠o en mis hijos sin embargo me siento lo suficientemente impotente aqu√≠ por tantas cosas estoy molesto por la falta de respeto por las pocas pequeÒas cosas que les ped√≠ que no hicieran""",miedo,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Finalmente me doy cuenta de la sensaciÛn de ser odiado sus efectos secundarios son tan grandes""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""jug·ndose la vida para conseguir, cuanto antes, poder apagar el incendio""",tristeza,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""¬°No voy a posponer esto por m·s tiempo, Casey! ¬°Quiero esas fotos lo antes posible!""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""De anunciarlo, la familia Sandra tiene que proponer una alternativa, que no es la Catedral de la Almudena, se les dan 15 d√≠as, pero yo me temo que el tema se va a empantanar en los tribunales""",neutral,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Estoy muy triste porque me perd√≠ el show de ropa de hombre porque siento que vale la pena apoyar esta aventura para mostrar m·s ropa de hombre""",alegr√≠a,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""adiccion? revisar correos electrÛnicos mensajes de texto a menudo se puede llamar una adicciÛn? de ninguna manera!""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Quer√≠a arraigar para que alguien se sintiera mal condenado en su nombre""",ira,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""ser·s libre de la opresiÛn de este gobierno, Venezuela ser· libre""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Puedo entender que usted puede sentir que prefiere no hacer su parte para los vulnerables sin hogar en Londres de esa manera precisa""",miedo,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Siento que no soy lo suficientemente bonita porque mi personalidad es demasiado aburrida desagradable""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Para ser el club tenÛis muy poco respeto por los fans que a√∫n no han visto el cap√≠tulo. Podr√≠ais haber esperado un poco, sobre todo poniendo la im·genes""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ojal· el jorobado estÛ bien""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Sueno desesperada patÛtica conmigo misma, pero me siento desesperada por mi necesidad de Ûl""",miedo,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""DespuÛs del disgusto electoral, ya puede estar hoy de puta madre""",neutral,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Madre m√≠a que horror!! Y en les defeinden. Miseria humana... que rabia, que impotencia ver esto no poder hacer nada tener en nuestro pa√≠s a gentuza que lo defienda!!!""",disgusto,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Eres el mejor libro que se haya escrito ¬øcada cu·nto te lees?""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Siento que no deber√≠a molestar a la gente con estos pequeÒos est√∫pidos pensamientos patÛticos. Siento que a nadie le importar√≠a saber lo que realmente pasa dentro de mi cabeza""",ira,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""El miedo al fracaso. ¬øPor quÛ las personas nos da tanto miedo fracasar?""",neutral,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""siento una pÛrdida por las preciosas vidas que fueron arrebatadas sin piedad un efecto secundario abominable de lo que sucede cuando aquellos entre nosotros odian""",alegr√≠a,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ahora mismo es dificil saber quien es mas g√ºevon, si o sus seguidores""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Orgullosa de mi pa√≠s que ayer saliÛ a votar en masa mostrÛ su rechazo a la corrupciÛn de. QuÛ tomen nota. DecepciÛn por la llegada de la ultraderecha melancÛlica al gobierno que sin duda har· mucho ruido e interar· obstaculizar el progreso""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""va a dormir esta noche apoyando una ley que lleva cinco ideas que fuimos los primeros en plantear. Ah√≠ la lleva usted""",neutral,disgusto,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ustedes no son lo suficientemente maduros como para contar las cosas como son. Incluso esa carga la dejan para sus hijos Ustedes dicen que aman a sus hijos por encima de todo, pero les est·n robando su futuro ante sus propios ojos""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""A menudo me siento como la hermana mayor jaded mientras que alrededor de ellos""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No puedo evitar sentirme tan impotente""",tristeza,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Siento una reacciÛn emocional pero muchas veces esa emociÛn est· acompaÒada de una reacciÛn f√≠sica tambiÛn""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""SÛ que a algunos les arde que este fenÛmeno siga en la cima del f√∫tbol. Inventan nuevos grandes. Pero Ûl sigue demostrando que es simplemente el mejor de la historia""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Estuve dando vueltas por la casa hoy no tuve que salir""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Vas Mike, por cierto, Sarah es la mejor guarida""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Actualmente me siento como una mierda, pero al menos tengo que mostrar mi cara en el trabajo para que no sospechen en mi zumbido enfermo el d√≠a despuÛs de mis vacaciones""",miedo,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me quedÛ por un corto tiempo, pero sent√≠ que Ûl ya no me necesitaba tuve mi propio drenaje emocional para resolver. Decid√≠ que ten√≠a que irme a casa""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Los datos de Unidad Podemos Ciudadanos evidencia la lamentable e injusta ley electoral que usamos en EspaÒa. UNIDAS PODEMOS m·s votos, Ciudadanos escaÒos m·s""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No existe un ser con decencia moral que considera un privilegio la simetr√≠a jur√≠dica contra la violencia machista o la que nos gastamos en eliminar barreras arquitectÛnicas para la discapacidad""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""estas escondidos cuerda de Ratas Narcotraficantes? A correr esconderse como las ratas! Es lo que les queda! Tic tac Ô∏èJusticia Divina!""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ver a un equipo de hockey que no me gusta ser eliminado de los playoffs""",alegr√≠a,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me gusta mucho el disco que me prestaste el otro d√≠a""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Cantabria quiere otra cosa y Cantabria necesita otra cosa con urgencia. Cantabria quiere ser""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""QuÛ QuÛ En El Trasero""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Weon los pases profundos que ha tirado Liverpool llegan a ser groseros""",neutral,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Porque gritan los de? Creen que los EspaÒoles ademas de tontos somos sordos o que?""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No. Por favor no difundir fakenews. La catedral fue salvada por el esfuerzo sobre humano de los bomberos. Las obras mayores pudieron ser sacadas. Una gran pÛrdida si claro de la flecha, techo grandes destrozos pero est· de pie. Como Paris""",neutral,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Hablas en serio? ¬°El juego es una industria viciosa basada en el engaÒo alimentada por la explotaciÛn intencional de la debilidad humana con el √∫nico propÛsito de obtener ganancias monetarias! Me disgusta""",miedo,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""con much√≠simos que quieren pasar p·gina, que quieren superar lo que sucediÛ en octubre de 2017""",neutral,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ten√≠a miedo pero debo decir que dormirÛ tranquila""",miedo,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Siento que todos se apresuraron a prepararse para maÒana""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ya no hay en la calle la percepciÛn de que a usted S·nchez le engaÒa""",ira,disgusto,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Siento como si la niebla emocional finalmente estuviera empezando a levantarse""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""La adolescente nominada de la Paz""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""La semana pasada usted quer√≠a conocer el contenido del informe a toda costa, cuestiÛn que le impide la ley, y presionÛ al coronel PÛrez de los Cobos""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Los gobiernos, miembros, conminan a a cesar la usurpaciÛn, para que pueda empezar la transiciÛn democr·tica""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Lo irÛnico, paradÛjico, que les deja sin pies cabeza, que llama la atenciÛn es que quienes votan a favor de que siga en el poder, son los mismos que QUIEREN TUMBAR a cada que Ûl pretende de Ô∏èü§î""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Bueno, no lo creo. ¬°No me gusta nada!""",disgusto,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No sÛ cÛmo ajustar mi vida. ¬øMe dar√≠as un consejo?""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Oh, lo siento de nuevo, gracias mam·""",alegr√≠a,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Deja de hablar de ella. Ella me pone la piel de gallina. Nunca deseo estar a su vista""",disgusto,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ay√∫dame, ay√∫dame, ay√∫dame, por favor. Ay√∫dame. Ay√∫dame""",miedo,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Siento que mientras estaba furiosa con el ra la taza fui educada con ella""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""El casto ardor de una amorosa llama, un sabio pecho a su rigor sujeto, un desdÛn sacudido un afecto blando, que al alma en dulce fuego inflama, Miguel de Cervantes""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""mal conseguir mopey sobre lo que ocurriÛ en el pasado, pero la frecuencia de que ha estado disminuyendo en una escala logar√≠tmica e incluso entonces es sÛlo cuando me siento duda de s√≠ mismo que tambiÛn est· ocurriendo menos""",miedo,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Estoy empantanado por los sentimientos de no ser amado, sÛlo termina haciÛndome sentir digno de amor que est· siendo baÒado sobre m√≠. ¬øCÛmo puedo sentir el amor la alegr√≠a si me siento profundamente indigno dentro de m√≠?""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ver a personas siendo injustamente tratadas no poder hacer nada al respecto""",ira,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Y mientras tanto hay alguien muy feliz en su casa""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""le di un update a mi lista de libros favoritos en honor""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""cap√≠tulazo en tensiÛn toda la hora, m√∫sica, efectos, paisajes... Uno de los mejores cap√≠tulos JODER despuÛs de esta serie voy a tener un vac√≠o enorme... LLORO!""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me siento como si me hubieran robado porque gran parte de mi verano no era tan agradable aunque empecÛ con grandes ideas sobre proyectos que se har√≠an estructurar√≠a que se mantendr√≠an nuevos lugares inteligentes que ir√≠amos""",alegr√≠a,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""lo hab√≠a superado durante apenas veinticuatro horas antes de sentirme agotado angustiado""",miedo,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Si alguna vez est·s en Chicago, por favor b√∫scame""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Juro que nunca comprarÛ en un mercado callejero en China. ¬°Es un lugar terrible lleno de especuladores excelentes! Hay que estar atento a la hora de pagar por algo""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ver arder, con el corazÛn encogido, no se puede imaginar lo que sienten los parisinos si el mundo entero est· consternado.... volver al tuiter ver que los pol√≠ticos espaÒoles siguen con sus gilipolleces... definitivamente, que paren el mundo! Ô∏è""",disgusto,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Todos conmovidos con el incendio de la catedral en Par√≠s est· bien, Ojal· eso s√≠ tb se conmovieran de la misma forma con la destrucciÛn en Siria el sufrimiento del pueblo de Palestina""",ira,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Escuchando a Abascal estoy alucinando con que hayan sacado escaÒos. Es que no lo puedo entender como se puede votar a alguien que quiere volver m·s de aÒos atr·s. Solo dirÛ una cosa ¬°Viva la democracia!""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""oiga don Cristian, ac· en chilito eso ha pasado un montÛn de veces, cosas peores en plena democracia. O no ha visto como tratan a las seÒoras verduleras? o ve las noticias no m·s?""",neutral,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Es imposible describir lo que se vive,Los amigos de Mujica TabarÛ V·zquez de todo el F. A atropellando civiles con tanquetas. Esto es la dictadura asesina de Nicol·s Maduro""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Aquellos que se alegran del incendio no sÛ si tendr·n a alg√∫n familiar trabajando en la hosteler√≠a. Porque es patrimonio cultural EspaÒa vive del turismo""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Porque son demasiado violentos. Algunos de ellos son incluso repugnantes""",disgusto,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Leo tantas tonter√≠as en el hastag Os recomiendo el documental La vida sin nosotros. Sin el ser humano, la Tierra tardar√≠a sÛlo entre aÒos en borrar cualquier vestigio de nuestra civilizaciÛn. Un poco de humildad como seres humanos, por favor""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Y, coinsisto, cuando desde el Gobierno de la NaciÛn se han emitido hasta cinco opiniones distintas, cinco opiniones distintas, en relaciÛn con la mejor forma de abordar por las comunidades autÛnomas la lucha contra la pandemia, en la semana que ha pasado desde que ha llegado el estado de alarma,""",ira,disgusto,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""a los colegios, nuestros hijos a partir del mes de septiembre. Recortar en educaciÛn es recortar en el futuro de nuestra tierra. No queremos seÒor Vara, esta nueva normalidad""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Los herederos de Leo Messi. El argentino celebrÛ el t√≠tulo de la Liga EspaÒola junto a sus hijos. QUE MEJOR QUE CELEBRARLO EN FAMILIA. en Panama""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""a ese fondo de 144.000 millones de euros de reconstrucciÛn europea""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Este verano estamos viendo mucho bikini talla XS en la playa""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Palabra a palabra te voy descubriendo,toc·ndote con mis yemas. Poco a poco me vas seduciendo,llen·ndome de fonemas. P·gina a p·gina en prosa, en novela el alma se entrega frente a tus hojas, entre mis manos""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""El mal perder del Votante de DERECHAS Y DE EXTREMA DERECHA. Ya no hay ositolas para todos, toros para todos e incultura para todos. Ooohhhh quÛ pena!!!!""",neutral,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Despues de ver el baile que le pegÛ a quien chingados le interesa""",neutral,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No sÛ lo que me est· ocurriendo. Estoy cambiando. Puedo sentirlo""",miedo,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""El sufrimiento causado es aterrorizante execrable""",disgusto,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me parec√≠a dif√≠cil de creer que alguien pudiera actuar de esa manera""",disgusto,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Generalmente estoy contento con solo un poco de ira reprimida que aparece solo cuando es instigada""",miedo,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me siento como a lo largo de mi vida hasta este punto en el tiempo puedo decir que he follado a unas cuantas personas""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No quiero ni imaginar lo desesperados que est·n, para que piensen de esta forma""",neutral,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Y usted haga el favor de mandarle el recado al l√≠der de su banda criminal, el seÒor S·nchez, y d√≠gale que se vaya de una vez a liderar la internacional socialista""",ira,disgusto,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""en may√∫sculas de verdad""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Puedo entender que sientas que preferir√≠as no hacer tu parte por las personas vulnerables sin hogar en Londres de esa manera precisa""",miedo,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Siento que el universo cree que puedo manejarlo me est· dando m·s m·s sufrimiento""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No puedo creer que haya gente que disfrute viendo pel√≠culas de terror tan sangrientas""",disgusto,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Siento que no lo he sacudido √∫ltimamente""",miedo,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""¬øBean tambiÛn te enviÛ estos chistes verdes? Mirar!""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Cuando acabe todo esto, que me expliquen los socialistas, que disfrutan del capitalismo, la razÛn de su voto. Pq esto es alucinante Ô∏è""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Sin lugar a dudas, Messi es el mejor del mundo""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""va a ser muy parecido a lo que tengamos que hacer a nivel nacional muy pronto""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""CÛmo puedo hablar yo de lo que acaba de pasar""",neutral,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Supongo. QuÛ pueden hacer? Ni siquiera sÛ quiÛn es""",miedo,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Vi algo tan desagradable que me impactÛ a tal punto de tener miedo""",disgusto,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""est· en mis oraciones m·s que nunca""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Yo, de todas las personas, realmente no tengo muchos problemas para hablar sobre cÛmo me siento cuando se dice que estoy enamorada, as√≠ que despuÛs de todo, me he quejado de los √∫ltimos meses fue en vano""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""siento que estoy torturado como hace aÒos""",miedo,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""tan grave respecto a una infraestructura que es vital para nuestro desarrollo""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Oh, es realmente un lastre""",disgusto,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me saca de quicio cuando alguien me culpa por algo que claramente no he hecho, me hace sentir impotente""",ira,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""yo tampoco quiero llorar porque se que ella va a pensar que me siento torturado por tener que comerme la parte negra del arroz""",ira,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Hoy, el jefe del Estado Mayor de la Defensa ha asegurado que el buque de Alicia ha dejado la ciudad de acuerdo con las autoridades locales""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Empieza el do tiempo, el ·rbitro no trajo las tarjetas. cuidado con Liverpool la velocidad que tienen! üò±""",tristeza,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""He o√≠do que est· haciendo olas""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""no hace falta que lo digan porque es conocido de todo, en una semana en la que queremos y pedimos el apoyo a todos los grupos parlamentarios de unos presupuestos que necesita este pa√≠s""",neutral,disgusto,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Aunque salgan con sus mamadas de amargados √∫nicos detergentes... PERO QUE WEBA CONSTRUIR ALGO AS√ç!! Nada m·s por eso se debe valorar""",disgusto,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""ejemplo en may√∫sculas, ni una mala cara, entrenado al 100%, se deja la piel por el equipo, juegue 10 minutos, juegue media hora, juegue 90""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""si en dos meses no se ha investido a un presidente de la Generalidad""",neutral,disgusto,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me siento tan apretada que odio este sentimiento que es por eso que realmente no me gusta apretar en los autobuses o en la mrt a menos que estÛ con gente que no ser· tan malo en comparaciÛn con estar solo""",tristeza,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""He estado teniendo pesadillas sueÒos muy raros que me hacen sentir como si no tuviera sueÒo en absoluto con pensamientos completamente perturbados""",tristeza,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Estoy seguro de que el Kremlin quiere que se conviertan en terroristas suicidas solo para que puedan tomar medidas enÛrgicas como con los chechenos o los muyahidines afganos entrenados por la CIA Saudita antes que ellos""",alegr√≠a,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""a salir de ellas, ah√≠ son un fin de semana fuera porque no saben quÛ se van a encontrar en su casa, en su domicilio cuando vuelan""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me siento un poco estresado, pero en serio, no tengo a nadie ni nada a quien culpar m·s que a m√≠ mismo""",ira,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""JaÛn sin escaÒos de VOX quÛ bien""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Que buena noche hace hoy en Madrid Ô∏è""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Pero muchos espaÒoles hoy no habr√≠an votado al Partido Socialista si hubiesen sabido que usted iba a ser el vicepresidente, porque el seÒor S·nchez les engaÒÛ. Eso s√≠ que no es una normalidad democr·tica""",ira,disgusto,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Quiz· he querido transmitir mis sentimientos sobre un asunto en lugar de mis pensamientos lo he rechazado porque he pensado que los sentimientos sobre el asunto son irrelevantes""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Tengo tanto miedo de ser bipolar porque se siente demasiado como ser como los niÒos que odiaba en el grado de los niÒos que casi me llevÛ al suicidio por primera vez en mi vida""",tristeza,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""De no ser atendido este llamamiento que hoy hago, ser· preciso reflexionar sobre la adopciÛn de otro tipo de decisiones que ni queremos ni nos gustan""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""tus padres hicieron un trato para devolverte a la vida y ¬øcu·l era el precio? ¬øYo? ¬øCu·l era el precio?""",miedo,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""me gustar√≠a que gane Cristina para que se quede con Clar√≠n todos estos medios de mierda que tergiversan la realidad. No los pienso defender esta vez. Lo que dijo Macri es lo que expreso no""",disgusto,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""hab√≠a elegido oxbow en el derby de kentucky hace dos semanas, pero apareciÛ como la apuesta m·s larga para el preakness hoy ten√≠a la sensaciÛn de que la combinaciÛn de lucas stevens no ser√≠a superada""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""¬°Oh, no me hables de ayer! Fue la noche m·s horrible que he tenido""",disgusto,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Gracias feriado caer en d√≠a""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Felicitaciones por San Jorge de √∫ltima hora. El mejor que he le√≠do en lo que va de aÒo es, curiosamente, un halago a la lectura Como una novela, de Daniel Pennac""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me volviÛ loco el estruendo de truenos que no paraban de estallar""",miedo,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""a su preparaciÛn, a la inscripciÛn de deportistas, participaciones, reservas, almacenamiento de materiales de los deportistas, hoy solo quedan en el valle v√≠ctimas""",neutral,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""usted, hola, seÒora Calvo, el informe del Consejo de Estado porque advert√≠a de las graves ilegalidades del decreto de fondos europeos? SeÒor Iglesias, una cosa es ser de extrema izquierda y otra ser un desagradecido. Y yo creo que si Vox ha puesto en sus manos 140.000 millones de euros para""",neutral,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Riguroso an·lisis electoral en mi curro han salido los tuyos o que? No, no est·n ni en la lista esa que daba la tele. joder... FIN""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Y otra Ulises de James Joyce ha sido de las pocas obras que he sido incapaz de leer entera lo he reintentado varias veces con tiempo de separaciÛn""",tristeza,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Entonces, para m√≠, es el d√≠a de un fiel compaÒero""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""La lectura lo es todo hoy lo celebramos. ¬°Feliz d√≠a del libro!""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me da verg√ºenza hablar con Ûl a veces porque me siento muy pequeÒo en esos momentos como si me estuviera haciendo un favor no merezco que me presten atenciÛn""",tristeza,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Pero todav√≠a me quedo atascado en los diferentes tonos. Me vuelve loco""",disgusto,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""¬°AGARRA, PUES! Tarre celebra el duro golpe de EEUU a Arreaza Si alguien merec√≠a ser sancionado por su cinismo falta de gallard√≠a es Ûl Video""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Siento que podr√≠a ser desagradable est· cubierto de amor curando el perdÛn la expectativa de que las cosas saldr·n bien""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""El resto es pretender ensuciar y embarrar para tapar incompetencias personales y colectivas, como es la nefasta gestiÛn que est· llevando a cabo el tripartito, el Gobierno de la ciudad,""",ira,disgusto,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No los hice sentir lo suficientemente sumisos me pregunto si soy extraÒo o lo son""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""siento algo acerca de ver f√≠sicamente tus problemas de donde proviene el dolor parece ser muy terapÛutico""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me siento m·s identificado con lo que dec√≠a el canciller alem·n que con lo que dec√≠a el l√≠der del Partido Socialista espaÒol. Cuando ha sido capaz de decir a los alemanes a pesar de ser socialista tenemos que bajarnos impuestos 30.000 millones de euros. Cuando ha sido capaz""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""El respeto, la democracia, la convivencia y, fundamentalmente, la fortaleza de las instituciones es lo que tiene que acompaÒar el trabajo de todos los pol√≠ticos""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Bastante. Me temo que no lo hice muy bien""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Creo que la √∫nica razÛn es que estaba demasiado nervioso durante la entrevista no pod√≠a expresarme como quer√≠a""",tristeza,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No soy un animal pol√≠tico, pero creo que la enfermedad m·s grande que sufre este mundo en este d√≠a edad es la enfermedad de la gente que se siente sin amor sÛ que puedo dar amor por un minuto por una hora por un d√≠a durante un mes, pero puedo dar""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""me siento un poco estresado por eso""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Estoy muy molesto porque me duele todo el tiempo porque no puedo hacer mi manicura completa siento que mis manos son bonitas estoy un poco asustada de cu·nto tiempo llevar· sanar que mi uÒa crezca nuevamente para pegarse en mi dedo nuevamente""",miedo,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ver como se quema un catedral histÛrica no poder hacer nada, es algo que dif√≠cilmente se pueda digerir""",neutral,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""¬°Dignidad, seÒor S·nchez! ¬°Dignidad! SeÒor Iglesias, que poco nos ha durado""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Siento que probablemente deber√≠a pasar al meollo de mi historia antes de distraerme demasiado con las guarniciones. ¬øQuÛ pasÛ con la buena m√∫sica?""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me siento como un ingrato codicioso por decir esto, pero me sent√≠ un poco mal por mis regalos""",ira,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Siento que muchos podr√≠an estar demasiado ansiosos por seÒalar decir que no es as√≠ como deber√≠a sentirse un verdadero chico trans en este momento o ver que sab√≠a que las personas trans estaban mucho m·s jodidas de lo que dejaban ver. Mira a este chico""",alegr√≠a,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""con todas las asociaciones y colectivos que trabajan en el ·mbito de la salud mental en Ceuta y en Melilla""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Disfrutad del episodio porque es lo m·s tocho que vamos a ver en audiovisual posiblemente en aÒos una pasada de mano por la cara a todos los pollaviejas del cine que siguen sin darle a la ficciÛn en streaming el lugar que se merece""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Para ello estar√≠a bien que no entrar·s. Es un consejo tonto que te doy""",neutral,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Volv√≠ al trabajo sintiÛndome agitada perezosa que se transformÛ en este estado donde sÛlo gritÛ no sÛ""",ira,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No, no era la polic√≠a. Dime que tambiÛn lo viste""",miedo,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me da un poco de verg√ºenza que nos haya llevado casi un mes construir esta cosa, pero con Nathans loco horario de trabajo mis habilidades limitadas con herramientas elÛctricas sÛlo hemos sido capaces de trabajar en Ûl para cortos impulsos a la vez""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ver cÛmo destazan a un ser humano""",disgusto,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""El pasado s·bado celebramos al lado de nuestro sus ABRILES. Nuestro CRACK PIPE ESPINEL. Como solemos hacer los amantes de la redonda del verde, animados con la final de""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Es que Arya te puto amo, gracias por tanto perdÛn por tan poco""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""¬°Ay, quÛ horror! Lo siento mucho""",miedo,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Siento que es mi culpa por dejar entrar al vampiro tropezarme constantemente con Ûl, confiar en Ûl, hacerse amigo de Ûl, etc""",alegr√≠a,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me siento impotente enojado al mismo tiempo""",ira,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Gracias Mam· por darme hambre de leer""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Estaba alimentando a Morla. ComencÛ a sentirme agitado sin razÛn""",ira,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Necesito el ministerio de cantor despuÛs de que me hiciste sentir que todos me odiaban apoyaban tus puntos de vista sobre m√≠""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No mmr!!! es un crack!!!""",neutral,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Supongo que estaba deprimido en mi propia miseria sintiÛndome extremadamente agitado por mucha gente""",miedo,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Yo, una biograf√≠a de Abraham Lincoln. Nueve aÒos. Mi madre pensÛ que ese era el momento..., de los mejores de mi vida!""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Nadie sabe lo que lamento que no se haya venido ud a, para una ha sido una trizteza inmensa. No tendrÛ vida suficiente para agradecerle a Ud su apoyo a mi de mi alma! Gracias gracias gracias Beatriz""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""sÛ cÛmo se siente tener en ars nes propias palabras perturbÛ un poco la temporada croata""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No lo vamos a permitir""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me irrita tanto el hecho de que soy una persona emocional pero no puedo hacer frente a los sentimientos de rechazo""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Letras capaces de llegar al alma. Es una obra que, con un lenguaje sencillo, es capaz de llegar al corazÛn del lector. Ô∏è Ô∏è Ô∏è Ô∏è Ô∏è OpiniÛn en Amazon. Elefantes amarillos""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ah√≠ se me pasan cosas muy desagradables, como rabia, impotencia, odio.""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me encanta coser, cocinar tambiÛn incursionar en el arte de medios mixtos cuando tengo ganas de ensuciarme""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""para frustrar otra vez el cambio que pod√≠a haber llegado a Andaluc√≠a hace cuatro aÒos y que no ha llegado por culpa de los miedos y las cobard√≠as del PP""",ira,disgusto,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Una maldita bestia que es Messi. BalÛn de oro s√≠ o s√≠""",neutral,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Lo que ocurre es muy grave. La ruptura del orden democr·tico nunca debe ser auspiciada. El injerencionismo extranjero en pol√≠tica interior, tampoco. La intervenciÛn yanqui nunca es a favor de un pueblo en el mundo. La guerra civil con bandos militares, condenable""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""En realidad? Ya lo he abierto. Excelente! Y es exactamente despuÛs de mi fantas√≠a. Muchas gracias""",disgusto,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Trump amenaza con bloqueo total en el supuesto apoyo militar. Es una farsa, otra m·s ante la impotencia. No conoce a nuestros pueblos Solidaridad amistad eterna. PATRIA O MUERTE, SEGUIREMOS VENCIENDO. PALO QUE SEA ordenen""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Se viene el combo cl·sico del Pollo Listo Vamos Bar√ßa!""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ya est· la llorona apastar hablando, aprovechar para ir al baÒo a...... V X""",neutral,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Viva el F√∫tbol!!! Salid disfrutad""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Para estar en contra del aborto hay que luchar por educaciÛn sexual, informaciÛn de anticonceptivos, educaciÛn sexual en los colegios. No se puede estar en contra del aborto y negarse""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Lo bien queda eso de ponte en el lugar de la otra persona lo dif√≠cil es hacerlo,""",tristeza,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Estaba intensamente consciente de cu·nto dinero me quedaba en mi sobre de gas comida todav√≠a tengo lo que quer√≠a ahorrar para la prÛxima semana, lo que me ayuda a no sentirme tan estresada asustada""",ira,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""EspaÒa se va a la mierda.... recemos por favor""",tristeza,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Estoy cansado de las promesas vac√≠as, necesitamos acciones concretas""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""me siento abrumado por compartirlo""",tristeza,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Lo siento por las mujeres genuinamente t√≠midas cautelosas en casa que, despuÛs de leer sombras, piensan que les pasa algo que no tienen un orgasmo cuando alguien les toca las tetas""",miedo,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""¬øNo te lo dije? Se acabÛ!""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""se iguale, no hay nadie. El problema que tiene el Barcelona, lo vengo diciendo aqu√≠, que no tiene que hacer un equipo para Messi, el equipo tiene que ser m·s que Messi, el equipo tiene que ser m·s que Messi y como no lo ha sido,""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""en uno de mis amigos cercanos diciendo que no le gustaba la forma en que soy amable con la gente que no conozco""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""El rival iba a todas las disputas y se quedaba mirando. Que no met√≠an la pierna, que no pegaban un grito, que no se com√≠an al ·rbitro, que no dec√≠an quÛ pasa""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""que es f√≠sicamente muy fuerte""",tristeza,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me enervÛ ver el arrojo de mala comp Over""",disgusto,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""de que el seÒor S·nchez pretend√≠a vender a EspaÒa y con ello a Navarra, lo reafirmo, lo reafirmo, porque era una absoluta verdad. Lo que pasa es que le pillamos a tiempo, por eso tenemos elecciones""",ira,disgusto,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Creo que amo Creo que eres amor Creo que todas las experiencias emociones de la vida est·n inspiradas existen como amor, incluso las experiencias emociones que dan miedo""",miedo,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Un abrazo a los colaboradores, sÛlidos en sus posiciones de trabajo como respuesta a quienes intentan destrozar la obra de la RevoluciÛn Bolivariana""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""me recuerdo a m√≠ mismo o me acuerdo de mis pasiones opiniones me siento incre√≠blemente agitado frustrado hay esta bola de energ√≠a sin canal para viajar""",miedo,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me quiero morir de los nervios. No puedo. Estoy temblando""",neutral,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Gracias a los de la quinta planta que hacen posible que la televisiÛn sea un trabajo colectivo""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Lo triste, seÒores del PRC, es que hasta hace unas semanas tampoco era la suya""",ira,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Valiente hipÛcrita mentiroso compulsivo est· usted hecho. Alguna de sus huestes o correligionarios suyos ayer mismo escrachearon una procesiÛn""",disgusto,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""¬øDonde est·? Los tristes acontecimientos que se est·n desarrollando deben suponer el fin definitivo del dictador la liberaciÛn del pueblo venezolano. El comunismo no es la soluciÛn. Evitemos derramamiento de sangre""",tristeza,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ûl no es exactamente un golpeador de baÒeras rabioso en comparaciÛn con McTernan ahora es Ûl""",alegr√≠a,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Messi es un autÛntico francotirador que gola""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ese d√≠a estaba sola en casa despuÛs de volver a casa de la escuela. No sab√≠a a dÛnde hab√≠an ido los dem·s""",miedo,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""FalleciÛ porque no se le atendiÛ, porque no era patolog√≠a de riesgo""",disgusto,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Le pregunto si Ûl sab√≠a de alg√∫n abogado para que me pueda ayudar. El hombre me dijo, mir·.""",neutral,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Y, por desgracia, muchos torremolineses seguir·n acudiendo a las puertas de este ayuntamiento para pedir ayuda, quiz·s para verano‚Ä¶""",disgusto,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Pues... se ha quedado buena noche""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Pablo Casado es Hern·ndez Mancha""",neutral,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Bueno, podr√≠a ser yo tambiÛn. Pero no estoy demasiado preocupado. Este lugar me est· asfixiando con este jefe tan duro colegas que apenas saben cÛmo vestirse por la maÒana. Ser√≠a casi una bendiciÛn ser despedido de este lugar""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""De quÛ sirve el VAR si no ven las jugadas finas, que son las dif√≠ciles para el ·rbitro? La mano saca ventaja era penal para el Bar√ßa""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No soy perfecta, pero me siento impotente para salvar a mi familia porque est·n tan lejos""",tristeza,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Lean porque es bonito, lean hoy lean todos los d√≠as""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""me siento muy agitado por alguna razÛn, creo que es porque estoy confundido""",ira,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Este tipo quiere ser un productor exitoso est· tuiteando cosas como esta""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Yo quiero anunciar que si se aprueba esta reforma la llevaremos inmediatamente al Constitucional y en cuanto lleguemos al gobierno recuperaremos la ley de seguridad ciudadana""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me siento como un aÒo confundido que no tiene control""",miedo,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""paciente. Muy buen equipo!. Hasta aca la vuelta ser· imperdible""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Mi madre est· en una mesa, desde las. que llegÛ, a√∫n no ha salido,.. No se puede hablar con ella. Tiene aÒos. Esto no est· bien, creo""",neutral,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Creo que s√≠. Tal vez por eso es barato aqu√≠""",disgusto,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Lo √∫nico que odio de ser verde es que use el color de mi piel para hacer campaÒa""",neutral,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Estoy en shock, lyanna muriÛ de manera honorable""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""De vez en cuando habla un poco encima. Es comido antes para saber que estaba bien y la prÛxima vez no lo va a hacer""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Comer menos debido al movimiento para mejorar el metabolismo o la droga, pero a√∫n est· en el rango normal dentro de los angustiados al final debido al hipertiroidismo delgado o yo era muy saludable delgado""",miedo,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Mire, lo que no puede usted presumir, de verdad, de verdad, para nada, es de buena gestiÛn de las salud p√∫blicas del COVID. No puede hacerlo""",disgusto,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""gracias por el tip. Reto Cumplido. Tienes m·s ideas?""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Puedo sentarme aqu√≠ llorar sentirme mal, pero no cambiar· el resultado""",ira,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Creo que est· tan decidido a robar industrias privadas lejos de los ciudadanos de esta naciÛn que no ha dado tiempo para luchar contra los verdaderos enemigos de ti""",alegr√≠a,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""TambiÛn siento que tal vez no quieras la marca autÛntica realmente desordenada""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""celebren este d√≠a, no dejen de celebrarlo, no dejen de celebrar y de homenajear nuestra identidad m·s profunda, la melilla espaÒola de hace ya 524 aÒos""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""De nuevo no estoy inspirado despuÛs de mirar las ideas e im·genes siento que ya no las aprecio se vuelven in√∫tiles puramente la habilidad impulsada no tiene nada que ver con el pensamiento""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Y lo que m·s contentos es, es que cada vez que hablan de alguien con su padre, siempre les dicen que era muy buena gente""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Poner fin a la guerra contra las drogas Recortar los impuestos en todos los ·mbitos Derogar las leyes inconstitucionales de control de armas""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Y programas especiales de TV, petardos los juegos para jugar""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Oculto lo que realmente siento pensando por miedo que llevar· a algo mucho m·s peligroso""",ira,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Cuando tengo que exponer tengo que hacerlo solo""",miedo,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me encantan los autores de literatura infantil que no sienten la necesidad de simplificar las cosas para los niÒos""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Es. Apres√∫rate! Llegar·s tarde a la escuela""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me he tropezado con una cita tras otra inst·ndome porque realmente siento que est·n destinadas a que me deshaga de mi odiado trabajo diario dedique mis esfuerzos a lo que m·s importa""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""te amo hermosa perra rAWR""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Supongo que eso es lo que me pasa por no usar hilo dental o cepillarme los dientes tres veces al d√≠a""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""cuando fui atacado por un adolescente me robaron la cartera""",miedo,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No asistiÛ al centro comercial ni una sola vez""",alegr√≠a,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Pero como es una gran medida, un gran avance para todos los niÒos, queremos hacerlo desde la Ciudad AutÛnoma. Por eso tenemos los dineros dispuestos para que el 1 de septiembre empiece a implantarse aqu√≠ en Melilla. Pioneros en toda EspaÒa""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""B·sicamente, convierten sus cuerpos en tambores. Hay una competencia nacional de pasos cada aÒo""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Los cubanos los buenos hijos rechazamos todo acto de violencia en nuestra querida hermana no m·s engaÒo, no m·s mentira""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Bueno, yo creo que es un dato m·s de que es un presidente t√≠tere""",disgusto,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Esto es pura especulaciÛn. Whedonthavetime intentÛ aprovecharse de la notoriedad ella p√∫blicamente se ha desvinculado de ellos. ¬øLa conexiÛn con la privatizaciÛn de recursos de dÛnde te la sacas?""",neutral,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Al descubrir un mensaje de voz sorpresa de mi mejor amiga, mi rostro se iluminÛ de felicidad""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me frustra tanto que no pueda hacer nada para cambiar esta situaciÛn. Me siento completamente impotente""",ira,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Siento una conexiÛn emocional con la reina del hielo del norte ahora que has revelado que la inhumanidad corre en su sangrienta familia""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""no puedo sentir mis labios est·n entumecidos ardiendo""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me siento super sola cuando somos solo yo los perros pero al menos estamos juntos ya no estoy todo el tiempo""",alegr√≠a,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ya hay que tener poca verg√ºenza para defender a un genocida como Maduro pero cuando alguien ha estado forr·ndose cobrando del rÛgimen asesino todo se entiende mejor""",disgusto,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""salir un fin de semana con un grupo de personas""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Siento que el mercado est· en una posiciÛn algo peligrosa para los comerciantes que terminan en el lado equivocado en este momento""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Hmm, no me siento muy cÛmodo""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""que ten√≠a la oportunidad de iniciar un debate con presidentes y consejeros de comunidades autÛnomas""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Cinco horas de escrutinio, a lo mejor el cÛmputo de votos del senado nos lo podr√≠amos replantear""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Aprend√≠ a nunca hablar de sentimientos cuando tomo un trago porque se ensucia""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Jajaja los muslos GRANDES no van a lograrlo""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""estoy realmente dolido me siento un poco abrumado""",miedo,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""corre saludar a Condorito? Yo lo conoc√≠ en revistas pero empezÛ como libro""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Totalmente de acuerdo, en Alcal· tuvimos nuestro con el palacio arzobispal. Ojala tambiÛn se hubiera reconstruido""",neutral,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ahora estoy sintiendo el comienzo de un tipo desagradable de p·nico tur√≠stico""",tristeza,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Cenizas a las cenizas polvo al polvo""",tristeza,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Siento un resfriado viniendo o beber un poco de jugo extra de xango cuando estoy tieso dolorido""",ira,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me sent√≠a bastante dÛbil en ella""",miedo,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No recuerdo haber visto un equipo que lo atacar· como lo hizo, despuÛs contra no se puede. Pero me saco el sombrero ante el gran""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""comprar√≠a algo de un batido tropical me comer√≠a la mitad luego sentir√≠a que me disgustaba incluso tomar un sorbo o un bocado extra""",ira,disgusto,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""preguntÛ sintiÛndome un poco dÛbil""",miedo,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Hablar de Barrymon, la verdad que nos da tranquilidad siempre, nos da alegr√≠a, nos da confianza. Para nosotros es una gran compaÒ√≠a en la que hemos depositado a travÛs de sus profesionales""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""que se ha convertido en un pa√≠s de""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Decidir y elegir si queremos vivir en la ciudad o en la Cantabria rural""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Hostia puta!!! Capitulazoooo, sea ya Domingo otra vez!!!""",alegr√≠a,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Joder!! Como voy a dormir hora!""",neutral,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me siento como gafas falsas me har· parecer m·s viejo el infierno un poco m·s autoritativo tambiÛn""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Yo aqu√≠... celebrando como se debe""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Por favor! Que alguien me enfoque las caras en la Calle GÛnova!""",neutral,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No sÛ ustedes pero yo no estoy lista para ver morir a muchos de mis personajes favoritos esta tarde""",tristeza,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Lo que ganamos ahora, lo perdemos despuÛs en INVERNALIA. üòÖ""",tristeza,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Hoy es un d√≠a triste catedral de nuestra seÒora es muy hermosa, cuando este reconstruida va a estar m·s hermosa que antes""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""MiÛrcoles con M de Messi. ¬°Buenos d√≠as!""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Esto no afecta a los desahucios por causas de vulnerabilidad social o econÛmica""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""aunque me pregunto si estoy contento con sentir tanto descontento""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Tengo un mal presentimiento ryodan no planea dejarme solo all√≠ mucho tiempo con todas esas computadoras""",tristeza,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ahora ya Memphis ha entrado en Guadiana. Hace una semana cuando mete un gol el chaval que sale despuÛs de un aÒo de lesiÛn que bastante est· haciendo, mete un gol.""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""QuiÛn sabe! Eso podr√≠a llegar m·s tarde""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Tuve un mal comienzo del d√≠a. Estaba atrapado en un atasco de tr·fico en mi camino me perd√≠ mi reuniÛn de la maÒana""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Gracias Pedro Brieguer por tu honestidad""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No estoy preparada para ver morir a mis s√∫per hÛroes,ni a mis personajes, pero lo que m·s miedo me da es saber el resultado de, que puede ser lo m·s catastrÛfico de todo""",miedo,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Estoy un poco molesto por el bono de este aÒo. Realmente esperaba un poco m·s. ¬øHay alg√∫n problema con mi trabajo?""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No es la gran cosa""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""sonriendo con las tonter√≠as que dice""",neutral,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""¬°Dios m√≠o! No traigas esa rana a la casa""",ira,disgusto,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""siento que se est· manifestando de maneras extraÒas""",miedo,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""DembelÛ Coutinho se pueden ir a la Verga... Se tenia que decir se dijo""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""El desespero de con el fracaso del golpe de estado lo llevÛ a amenazar con bloqueo total completo. No acepta que el pueblo venezolano desinflÛ a GuaidÛ. Miente al decir que nuestros mÛdicos mujeres son soldados. Resistir vencer""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Sol√≠a ser capaz de pasar el rato hablando con el cajero cuando estaba guardando mi dinero ahora me siento apresurado estresado si me tomo un segundo para jugar con las monedas ponerlos en mi bolso""",ira,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me da asco el comportamiento grosero de algunas personas en el transporte p√∫blico""",disgusto,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Desconocemos si hoy se ha tomado esa medicaciÛn de la que hablaba el otro d√≠a o no se la ha tomado. Lo que s√≠ es cierto es que su intervenciÛn, como viene siendo su tÛnica habitual, ha sido bastante farragosa""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""¬øQuien dijo que estos individuos respetan los DDHH?""",neutral,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Ya no me siento mal""",ira,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No quiero publicar mi informaciÛn personal en Internet. No sÛ quiÛn lo est· leyendo""",disgusto,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No quer√≠a sentirme precipitada a travÛs del programa""",ira,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""que defiende la integridad de los estados y que va a ser biligerante contra aquellos que amenazan Europa""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Gracia maestro hermosa letra Si Pudiera la cual tocÛ mis fibra no pude aguantar las ganas de llorar, se la dedico con el alma a mi amada a ella que con amor nos vio nacer nosotros que a√∫n habitamos en ella oramos por la justicia divina la paz""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Los tesoros perdidos, daÒados""",neutral,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""El gobierno de la ciudad formado por el Partido Socialista, por el Partido de Abrech·n y el impostor Castro van a derruir, van a tirar abajo el monumento que est· en la Plaza HÛroes de EspaÒa""",disgusto,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Y vuelve a dejar en la calle a la basura de el aun cree esto es un juego Guaido es un gafo. Por segunda vez lo deja loco""",neutral,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Pero a menudo me salto sus clases no le gusto""",tristeza,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""es muy buen equipo, pero tienen, es muy buen equipo, mejor el Barca pero no tienen""",neutral,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""lo entend√≠ pero eras alarmante""",ira,miedo,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""La sorpresa de recibir un regalo de agradecimiento por mi labor voluntaria me hizo sentir valorado""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Todo el trabajo de rutina realmente me deslumbra""",disgusto,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Lo lamento. Cu·l es tu nombre? Otra vez?""",alegr√≠a,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Puedo o√≠rlo todo. Oigo a los sirvientes en el otro extremo de la casa murmurando y a los ratones en el desv·n pisando fuerte como elefantes""",miedo,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Siento que estoy ganando fuerza r·pidamente probablemente podr√≠a comenzar a volver a correr ahora, pero estoy bastante asustado, tonto""",miedo,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Es demasiado tarde para decir lo siento ahora. Oh, ¬øquÛ voy a hacer?""",ira,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me siento como si fuera asaltada por una constante flaquidad""",miedo,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me jod√≠ de verdad anoche me jod√≠ de verdad en un montÛn de deprimentes. Fue una mala idea. Una mala idea. Me siento como un desastre neurÛtico. Ahora mismo no puedo manejarlo. No puedo manejarlo. No puedo manejarlo""",miedo,ira,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""siento que cuando entrÛ en mi relaciÛn con mike no me sent√≠ bienvenido en tu vida""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Veo. ¬°Eso es conveniente! Nunca entend√≠ cosas como esta, como GMT. ¬°Nunca sÛ en quÛ zona horaria estamos o cu·ndo cambiar mi reloj!""",ira,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Siempre estar· el t√≠pico listillo que lo comparar· con los libros. A quien no les guste que no lo vea, sobre todo,que dejen de joder con sus comentarios t√≠picos de mal gusto, a los que realmente disfrutamos de esta maravillosa serie""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""d√≠as nos adelantamos a la celebraciÛn recomendando un libro cada d√≠a. Los hemos puesto juntos, con sus respectivos links, para que puedas descubrir obras esenciales tan solo haciendo clic en las im·genes. Los libros""",alegr√≠a,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Todos los d√≠as hay 40 denuncias en todo nuestro pa√≠s porque viviendas han sido ocupadas. Veinte ocurren en CataluÒa. Esto es lo que verdadera""",disgusto,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Tengo que ganar dinero para mantener a la familia, as√≠ que me queda poco tiempo para compartir con ustedes""",tristeza,alegr√≠a,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Como sigan poniendo todo el dinero del mundo para reparar Notre Dame, la obra va a ser la m·s cara de la historia. No hay nada peor que decirle a un constructor que hay dinero de sobra para hacer la obra""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Me consterna que me aprovechara de la amabilidad de mi viejo amigo""",ira,tristeza,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""No sÛ si os suena alg√∫n caso reciente. Y cinco. En las manifestaciones se utilizar·n los medios menos agresivos y se evitar·n los que causan lesiones irreparables. Es el principio del fin de esto""",ira,neutral,False
+,"Clasifica el siguiente texto en una de estas emociones: ira, disgusto, tristeza, alegr√≠a, miedo o neutral. Responde √∫nicamente con la emociÛn correspondiente.
+
+Texto: ""Prepar·ndonos para la noche de fiesta""",alegr√≠a,neutral,False
