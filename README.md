@@ -101,35 +101,65 @@ Disponible en Hugging Face:
 
 ### Uso rápido
 ```python
-from transformers import AutoTokenizer, AutoModelForCausalLM
-import torch
+# Celda 1 — Instalar dependencias
+!pip install accelerate peft bitsandbytes transformers gradio
 
+# Celda 2 — Imports
+import torch
+from transformers import (
+    AutoModelForCausalLM,
+    AutoTokenizer,
+    BitsAndBytesConfig,
+)
+
+# Celda 3 — Cargar modelo
 model_id = "Joseph7D/llama-2-7b-emotion-detector-v9"
 
-tokenizer = AutoTokenizer.from_pretrained(model_id)
+quant_config = BitsAndBytesConfig(
+    load_in_4bit=True,
+    bnb_4bit_quant_type="nf4",
+    bnb_4bit_compute_dtype=torch.float16,
+    bnb_4bit_use_double_quant=False,
+)
+
 model = AutoModelForCausalLM.from_pretrained(
     model_id,
-    load_in_4bit=True,
-    device_map="auto"
+    quantization_config=quant_config,
+    device_map={"": 0}
 )
-model.eval()
+model.config.use_cache = False
+model.config.pretraining_tp = 1
 
+tokenizer = AutoTokenizer.from_pretrained(model_id, trust_remote_code=True)
+tokenizer.pad_token = tokenizer.eos_token
+tokenizer.padding_side = "right"
+
+# Celda 4 — Función de clasificación
 def detectar_emocion(texto):
+    model.eval()
     prompt = (
-        f"<s>[INST] Clasifica el siguiente texto en una de estas emociones: "
+        f"Clasifica el siguiente texto en una de estas emociones: "
         f"ira, disgusto, tristeza, alegría, miedo o neutral. "
-        f"Responde únicamente con la emoción correspondiente. "
-        f"Texto: \"{texto}\" [/INST]"
+        f"Responde únicamente con la emoción correspondiente.\n\n"
+        f"Texto: \"{texto}\""
     )
-    inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
+    formatted_prompt = f"<s>[INST] {prompt} [/INST]"
+    inputs = tokenizer(
+        formatted_prompt,
+        return_tensors="pt",
+        return_attention_mask=True
+    ).to(model.device)
+
     with torch.no_grad():
         output = model.generate(
-            **inputs,
-            max_new_tokens=10,
+            input_ids=inputs["input_ids"],
+            attention_mask=inputs["attention_mask"],
+            max_new_tokens=20,
             do_sample=False
         )
-    respuesta = tokenizer.decode(output[0], skip_special_tokens=True)
-    return respuesta.split("[/INST]")[-1].strip()
+
+    decoded = tokenizer.decode(output[0], skip_special_tokens=True)
+    return decoded.split("[/INST]")[-1].strip()
 
 # Ejemplos
 print(detectar_emocion("Me siento aterrado cada vez que tengo que hablar frente a mi jefe"))
