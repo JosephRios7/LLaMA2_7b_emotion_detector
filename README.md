@@ -99,7 +99,22 @@ Disponible en Hugging Face:
 Disponible en Hugging Face:
 👉 [Joseph7D/llama-2-7b-emotion-detector-v9](https://huggingface.co/Joseph7D/llama-2-7b-emotion-detector-v9)
 
-### Uso rápido
+### Direct Use
+
+Puedes usar el modelo de tres formas:
+
+**1. Interfaz web (sin código)**
+Accede directamente desde el navegador, sin instalar nada:
+👉 https://huggingface.co/spaces/Joseph7D/emotion-detector-page
+
+**2. API con Dockerfile**
+Despliega tu propia instancia con Docker usando el Space configurado:
+👉 https://huggingface.co/spaces/Joseph7D/emotion-detector-space
+
+**3. Código Python directo**
+Carga el modelo en tu entorno con el código de la sección Uso rápido
+
+## Uso rápido
 ```python
 # Celda 1 — Instalar dependencias
 !pip install accelerate peft bitsandbytes transformers gradio
